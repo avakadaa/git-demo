@@ -1,8 +1,12 @@
 love
 love love
+<<<<<<< HEAD
 
 new new new
 new new new
 new new new
 new new new
 ______________________________________________
+=======
+love love love
+>>>>>>> 42a3740ed3267054cae86039382c9098d0cb141c
